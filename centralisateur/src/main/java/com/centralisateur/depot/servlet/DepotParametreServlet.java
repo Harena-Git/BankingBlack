@@ -1,10 +1,14 @@
-package com.centralisateur.servlet;
+package com.centralisateur.depot.servlet;
+
+import java.io.IOException;
+
+import com.centralisateur.depot.CompteDepotService;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
-import jakarta.servlet.http.*;
-import java.io.IOException;
-import com.centralisateur.depot.CompteDepotService;
+import jakarta.servlet.http.HttpServlet;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
 
 @WebServlet("/depotParametre")
 public class DepotParametreServlet extends HttpServlet {

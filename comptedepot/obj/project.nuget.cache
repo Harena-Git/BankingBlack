@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QXU6y1D4rLA=",
+  "dgSpecHash": "yKnRhM4r7aY=",
   "success": true,
-  "projectFilePath": "D:\\Cours\\Architecture_Mr_Tahina\\Sujet 1 Banking (3) _No_Git\\comptedepot\\comptedepot.csproj",
+  "projectFilePath": "D:\\Cours\\Architecture_Mr_Tahina\\Sujet 1 Banking (3) _No_Git\\BankingBlack\\comptedepot\\comptedepot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HARENA\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\HARENA\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",

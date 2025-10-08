@@ -3255,11 +3255,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cours\\Architecture_Mr_Tahina\\Sujet 1 Banking (3) _No_Git\\comptedepot\\comptedepot.csproj",
+      "projectUniqueName": "D:\\Cours\\Architecture_Mr_Tahina\\Sujet 1 Banking (3) _No_Git\\BankingBlack\\comptedepot\\comptedepot.csproj",
       "projectName": "comptedepot",
-      "projectPath": "D:\\Cours\\Architecture_Mr_Tahina\\Sujet 1 Banking (3) _No_Git\\comptedepot\\comptedepot.csproj",
+      "projectPath": "D:\\Cours\\Architecture_Mr_Tahina\\Sujet 1 Banking (3) _No_Git\\BankingBlack\\comptedepot\\comptedepot.csproj",
       "packagesPath": "C:\\Users\\HARENA\\.nuget\\packages\\",
-      "outputPath": "D:\\Cours\\Architecture_Mr_Tahina\\Sujet 1 Banking (3) _No_Git\\comptedepot\\obj\\",
+      "outputPath": "D:\\Cours\\Architecture_Mr_Tahina\\Sujet 1 Banking (3) _No_Git\\BankingBlack\\comptedepot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HARENA\\AppData\\Roaming\\NuGet\\NuGet.Config"
