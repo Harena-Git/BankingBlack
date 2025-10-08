@@ -1,2 +1,2 @@
-# BankingBlack
-Gestion des microservices
+# banqueEJB1
+bank Ejb WS
