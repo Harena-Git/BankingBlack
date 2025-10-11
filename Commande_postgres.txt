@@ -1,0 +1,11 @@
+Voir les bases de données :
+\l
+
+Se connecter à une base :
+\c nom_de_la_base
+
+Voir les tables :
+\dt
+
+Voir les utilisateurs :
+\du

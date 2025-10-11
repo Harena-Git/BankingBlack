@@ -10,6 +10,7 @@ CREATE TABLE compte_courant (
     date_maj DATE NOT NULL DEFAULT CURRENT_DATE
 );
 
+
 CREATE TABLE mouvement_courant (
     id SERIAL PRIMARY KEY,
     compte_id INT NOT NULL,
